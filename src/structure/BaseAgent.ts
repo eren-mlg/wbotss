@@ -256,11 +256,11 @@ export class BaseAgent {
         const rpc = new RichPresence(this.client)
             .setApplicationId("1050825123554402354")
             .setType("PLAYING")
-            .setName("Godfather")
-            .setDetails("Dost kalbine kazı.Düşmanı yakın tut.")
+            .setName("Owo Farming")
+            .setDetails("Puanları cepliyor.")
             .setStartTimestamp(this.client.readyTimestamp)
-            .setAssetsLargeImage("1415042567053246534")
-            .setAssetsLargeText("Zylex")
+            .setAssetsLargeImage("1415037796649009316")
+            .setAssetsLargeText("OwO")
 
         this.client.user.setPresence({ activities: [rpc] });
     }
