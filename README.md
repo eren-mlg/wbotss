@@ -1,5 +1,5 @@
 # GELİŞMİŞ DISCORD OWO FARM
-
+# DESTEK İÇİN [DİCORD](https://discord.gg/6m4dj8CVtZ) GELİNİZ
 Lütfen hataları bildirin ve duyurularımızı takip etmeye devam edin!
 
 > Kullanım sırasında herhangi bir sorun/hata/hatayla karşılaşırsanız lütfen bildirin, sorumluluk bilinciyle yardımcı olmak için elimden geleni yapacağım.
