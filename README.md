@@ -294,7 +294,7 @@ npm start import config.json # Otomatik içe aktarmayı tetikle ve verilen confi
 
 **S: Bu aracı kullanmak güvenli mi?**
 
-C: Araç açık kaynaklıdır ve kodunu kendiniz inceleyebilirsiniz. Ancak, herhangi bir otomasyon aracını kullanmak risk taşır. Her zaman kendi takdirinize göre kullanın ve Discord Hizmet Şartları'na uyun.
+C:Ancak, herhangi bir otomasyon aracını kullanmak risk taşır. Her zaman kendi takdirinize göre kullanın ve Discord Hizmet Şartları'na uyun.
 
 **S: Bunu kullandığım için yasaklanır mıyım?**
 
@@ -303,10 +303,6 @@ C: Otomasyon araçlarını kullanırken her zaman bir risk vardır. Rastgele gec
 **S: Bu mobil cihazlarda çalışıyor mu?**
 
 C: Evet! Termux aracılığıyla Android'de kullanabilirsiniz. iOS desteği henüz mevcut değil.
-
-**S: Bu araç ücretsiz mi?**
-
-C: Evet, araç tamamen ücretsizdir. Ancak, captcha çözme API'leri gibi bazı hizmetler ilgili sağlayıcılara ödeme yapılmasını gerektirir.
 
 ### Kurulum ve Yükleme
 
